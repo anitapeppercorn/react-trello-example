@@ -1,5 +1,5 @@
 Example code for [react-trello](https://github.com/rcdexta/react-trello).
-
+published at https://anitapeppercorn.github.io/react-trello-example/
 # Setup
 
 Please clone the project, install the dependencies and fire up the project
